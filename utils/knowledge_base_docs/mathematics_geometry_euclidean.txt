@@ -1,0 +1,12 @@
+Mathematics - Euclidean Geometry
+
+Euclidean geometry, based on Euclid's axioms, studies properties of flat surfaces and three-dimensional space. It forms the foundation for classical geometry and spatial reasoning.
+
+Key principles:
+- Points, lines, and planes are fundamental elements
+- Parallel postulate: Through a point not on a line, exactly one parallel line exists
+- Pythagorean theorem: a² + b² = c² for right triangles
+- Circle properties: circumference = 2πr, area = πr²
+- Angle relationships: complementary (90°), supplementary (180°)
+
+Euclidean geometry applies to architecture, engineering, computer graphics, and navigation systems.

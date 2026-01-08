@@ -1,0 +1,13 @@
+Biology - Cell Structure and Function
+
+Cells are the fundamental units of life, containing organized structures called organelles that perform specific functions. Understanding cell structure explains how life processes occur at the molecular level.
+
+Key organelles and functions:
+- Nucleus: Contains DNA and controls cell activities
+- Mitochondria: Powerhouses producing ATP energy
+- Ribosomes: Protein synthesis sites
+- Endoplasmic reticulum: Protein and lipid processing
+- Golgi apparatus: Modifies and packages proteins
+- Cell membrane: Controls substance entry and exit
+
+Prokaryotic cells lack membrane-bound organelles, while eukaryotic cells have complex internal organization. Cell structure determines function in tissues, organs, and organisms.

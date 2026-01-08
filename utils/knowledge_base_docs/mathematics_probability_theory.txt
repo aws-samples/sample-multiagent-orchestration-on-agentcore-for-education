@@ -1,0 +1,12 @@
+Mathematics - Probability Theory
+
+Probability theory studies the likelihood of events occurring. The probability of an event A is denoted P(A) and ranges from 0 (impossible) to 1 (certain).
+
+Fundamental concepts:
+- Sample space: Set of all possible outcomes
+- Event: Subset of sample space
+- Conditional probability: P(A|B) = P(A∩B)/P(B)
+- Independence: P(A∩B) = P(A)×P(B)
+- Bayes' theorem: P(A|B) = P(B|A)×P(A)/P(B)
+
+Probability distributions describe how probabilities are distributed over possible values, essential for statistics and data analysis.

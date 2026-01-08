@@ -1,0 +1,10 @@
+Mathematics - Calculus: Derivatives
+
+The derivative represents the instantaneous rate of change of a function at any given point. For a function f(x), the derivative f'(x) is defined as the limit of the difference quotient as h approaches zero: f'(x) = lim(h→0) [f(x+h) - f(x)]/h.
+
+Key derivative rules include:
+- Power rule: d/dx(x^n) = nx^(n-1)
+- Product rule: d/dx[f(x)g(x)] = f'(x)g(x) + f(x)g'(x)
+- Chain rule: d/dx[f(g(x))] = f'(g(x)) × g'(x)
+
+Derivatives are fundamental in optimization, physics, and engineering applications.

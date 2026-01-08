@@ -1,0 +1,12 @@
+Biology - Ecology and Ecosystems
+
+Ecology studies interactions between organisms and their environment. Ecosystems consist of biotic (living) and abiotic (non-living) components that cycle energy and nutrients.
+
+Ecological levels of organization:
+- Individual: Single organism
+- Population: Same species in an area
+- Community: All species in an area
+- Ecosystem: Community plus physical environment
+- Biosphere: All ecosystems on Earth
+
+Energy flows through trophic levels (producers, primary consumers, secondary consumers, decomposers). Nutrient cycles (carbon, nitrogen, phosphorus) recycle essential elements. Understanding ecology guides conservation, agriculture, and environmental management.

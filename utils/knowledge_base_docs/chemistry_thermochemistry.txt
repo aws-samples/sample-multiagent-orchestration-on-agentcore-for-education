@@ -1,0 +1,12 @@
+Chemistry - Thermochemistry
+
+Thermochemistry studies energy changes during chemical reactions. It quantifies heat absorbed or released, helping predict reaction spontaneity and optimize industrial processes.
+
+Key concepts:
+- Enthalpy (H): Heat content at constant pressure
+- Enthalpy of formation: Energy to form compounds from elements
+- Enthalpy of combustion: Energy released during complete burning
+- Hess's law: Total enthalpy change is path-independent
+- Calorimetry: Experimental measurement of heat changes
+
+Thermochemical data enables calculation of reaction energetics, fuel efficiency, and process optimization in chemical manufacturing, energy production, and environmental applications.

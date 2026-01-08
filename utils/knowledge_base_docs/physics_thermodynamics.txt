@@ -1,0 +1,11 @@
+Physics - Thermodynamics
+
+Thermodynamics studies heat, work, and energy transfer in systems. It governs everything from steam engines to biological processes and stellar evolution.
+
+Four fundamental laws:
+- Zeroth law: Thermal equilibrium is transitive
+- First law: Energy conservation (ΔU = Q - W)
+- Second law: Entropy always increases in isolated systems
+- Third law: Entropy approaches zero at absolute zero temperature
+
+Key concepts include temperature, pressure, volume, enthalpy, and entropy. Thermodynamics explains engine efficiency, refrigeration cycles, phase transitions, and chemical reaction spontaneity in industrial and natural processes.

@@ -1,0 +1,12 @@
+Mathematics - Linear Algebra: Matrices
+
+A matrix is a rectangular array of numbers arranged in rows and columns. Matrix operations form the foundation of linear algebra and have applications in computer graphics, machine learning, and engineering.
+
+Basic matrix operations:
+- Addition: Add corresponding elements
+- Multiplication: Row-by-column multiplication rule
+- Transpose: Flip rows and columns
+- Determinant: Scalar value representing matrix properties
+- Inverse: Matrix A^(-1) where AA^(-1) = I
+
+Matrices can represent linear transformations, solve systems of equations, and model complex relationships in data science.

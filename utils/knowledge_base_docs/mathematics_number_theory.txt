@@ -1,0 +1,12 @@
+Mathematics - Number Theory
+
+Number theory studies properties and relationships of integers. It explores prime numbers, divisibility, and modular arithmetic, with applications in cryptography and computer science.
+
+Core concepts:
+- Prime numbers: Natural numbers greater than 1 with exactly two divisors
+- Greatest Common Divisor (GCD): Largest number dividing two integers
+- Modular arithmetic: Arithmetic with remainders (a ≡ b (mod n))
+- Fermat's Little Theorem: If p is prime, then a^p ≡ a (mod p)
+- Euler's totient function: φ(n) counts integers coprime to n
+
+Number theory underlies RSA encryption, hash functions, and digital signatures in cybersecurity.

@@ -1,0 +1,12 @@
+Chemistry - Chemical Bonding
+
+Chemical bonds form when atoms share or transfer electrons to achieve stable electron configurations. Bond types determine molecular geometry, properties, and reactivity.
+
+Types of chemical bonds:
+- Ionic bonds: Electron transfer between metals and nonmetals
+- Covalent bonds: Electron sharing between nonmetals
+- Metallic bonds: Delocalized electrons in metal lattices
+- Hydrogen bonds: Weak attractions involving hydrogen atoms
+- Van der Waals forces: Weak intermolecular attractions
+
+Bond polarity, electronegativity differences, and molecular geometry influence physical properties like melting point, solubility, and conductivity in chemical compounds.

@@ -1,0 +1,11 @@
+Physics - Theory of Relativity
+
+Einstein's relativity revolutionized our understanding of space, time, and gravity. Special relativity (1905) deals with objects moving at constant high speeds, while general relativity (1915) describes gravity as spacetime curvature.
+
+Special relativity principles:
+- Speed of light is constant in all reference frames
+- Time dilation: moving clocks run slower
+- Length contraction: moving objects appear shorter
+- Mass-energy equivalence: E = mc²
+
+General relativity explains gravity as curved spacetime caused by mass-energy. It predicts black holes, gravitational waves, and GPS satellite corrections, fundamentally changing cosmology and astrophysics.

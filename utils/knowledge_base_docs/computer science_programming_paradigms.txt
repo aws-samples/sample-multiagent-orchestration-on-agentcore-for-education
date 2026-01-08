@@ -1,0 +1,3 @@
+Computer Science - Programming Paradigms
+
+Programming paradigms represent different approaches to software design and problem-solving. Procedural programming organizes code into functions and procedures. Object-oriented programming encapsulates data and methods into classes and objects. Functional programming treats computation as mathematical function evaluation avoiding side effects. Declarative programming specifies what to compute rather than how. Event-driven programming responds to user actions and system events. Concurrent programming handles multiple simultaneous processes. Each paradigm offers advantages for specific problem domains. Modern languages often support multiple paradigms allowing flexible programming approaches.

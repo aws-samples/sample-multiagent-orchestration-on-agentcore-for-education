@@ -1,0 +1,3 @@
+Computer Science - Database Systems
+
+Database systems store, organize, and retrieve large amounts of structured information efficiently. Relational databases use tables with rows and columns connected through relationships. SQL (Structured Query Language) enables data querying, insertion, updating, and deletion. Database design follows normalization principles reducing redundancy and ensuring consistency. ACID properties (Atomicity, Consistency, Isolation, Durability) guarantee reliable transactions. NoSQL databases handle unstructured data and horizontal scaling. Database management systems provide security, backup, and performance optimization. Understanding databases is essential for web development, business applications, and data analysis.

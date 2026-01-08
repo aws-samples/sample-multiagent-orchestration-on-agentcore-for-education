@@ -1,0 +1,13 @@
+Biology - Genetics and DNA
+
+DNA (deoxyribonucleic acid) carries genetic information in all living organisms. The double helix structure contains the instructions for building and maintaining life through protein synthesis.
+
+DNA structure and function:
+- Double helix: Two complementary strands (A-T, G-C base pairs)
+- Genes: DNA sequences coding for specific proteins
+- Chromosomes: Organized DNA structures in cell nucleus
+- Replication: DNA copying during cell division
+- Transcription: DNA to RNA information transfer
+- Translation: RNA to protein synthesis
+
+Genetic variations drive evolution, inheritance patterns, and individual differences. Understanding genetics enables medical treatments, agricultural improvements, and biotechnology applications.

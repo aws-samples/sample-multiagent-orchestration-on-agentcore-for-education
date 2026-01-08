@@ -1,0 +1,12 @@
+Chemistry - Organic Chemistry
+
+Organic chemistry studies carbon-containing compounds, which form the basis of all living organisms. Carbon's ability to form four bonds creates diverse molecular structures and functions.
+
+Fundamental concepts:
+- Hydrocarbons: Compounds containing only carbon and hydrogen
+- Functional groups: Reactive molecular fragments (alcohols, aldehydes, carboxyls)
+- Isomerism: Same molecular formula, different structures
+- Reaction mechanisms: Step-by-step bond breaking and forming
+- Stereochemistry: Three-dimensional molecular arrangements
+
+Organic chemistry explains biological processes, pharmaceutical design, polymer synthesis, and petrochemical production. It bridges chemistry with biology, medicine, and materials science.

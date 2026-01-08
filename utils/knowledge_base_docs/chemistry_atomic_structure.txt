@@ -1,0 +1,12 @@
+Chemistry - Atomic Structure
+
+Atoms consist of a nucleus containing protons and neutrons, surrounded by electrons in orbitals. Understanding atomic structure explains chemical bonding, periodic trends, and molecular behavior.
+
+Key components:
+- Protons: Positive charge, determine element identity
+- Neutrons: No charge, contribute to atomic mass
+- Electrons: Negative charge, occupy energy levels and orbitals
+- Electron configuration: Distribution of electrons in atomic orbitals
+- Quantum numbers: n, l, ml, ms describe electron states
+
+Atomic structure determines chemical properties, bonding patterns, and reactivity. The periodic table organizes elements by atomic number, revealing periodic trends in properties.

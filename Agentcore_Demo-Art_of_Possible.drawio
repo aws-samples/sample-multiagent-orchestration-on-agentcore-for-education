@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:144.0) Gecko/20100101 Firefox/144.0" version="29.2.1">
+  <diagram name="Esboço do Desenho de Negócio da Demo" id="sFSewgt0zWnkQJky58WQ">
+    <mxGraphModel dx="2647" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s8fVvmo5-1_uLI_pJja0-1" parent="1" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#EA6B66);" value="&lt;div&gt;Professores:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Recebem em seu wpp as métricas dos seus cursos:&lt;br&gt;*ID da matéria&lt;/div&gt;&lt;div&gt;*QTD de Alunos em cada curso&lt;br&gt;* Quantos deles estão com tarefas atrasadas em cada curso&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="340" x="-660" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wXz9zKLrPtPnqNTYvRdY-1" parent="1" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#2E2BFF);" value="&lt;div&gt;Alunos:&lt;/div&gt;&lt;div&gt;Recebem um relatório semanal de tarefas que estão pendentes/ Atrasadas&lt;/div&gt;&lt;div&gt;Quais cursos eles estão inscritos&lt;/div&gt;&lt;div&gt;As Notas deles nos cursos&amp;nbsp;&lt;/div&gt;&lt;div&gt;As matérias que eles deveriam focar&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="340" x="-230" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wXz9zKLrPtPnqNTYvRdY-2" parent="1" style="whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#6600CC);" value="Admin da Escola:&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recebe semanalmente&lt;/div&gt;&lt;div&gt;*Quais e Qauntos Alunos estão inadimplentes com as mensalidades e quais mensalidades&lt;/div&gt;&lt;div&gt;*Quantos alunos estão com notas abaixo da media e seus cursos&lt;/div&gt;&lt;div&gt;*Relatório de perfomance dos professores: Quantas aulas eles deram, quantas notas eles divulgaram na última semana,e qual a procentagem de alunos que estão abaixo da média&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="340" x="190" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wXz9zKLrPtPnqNTYvRdY-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Personas&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-770" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wXz9zKLrPtPnqNTYvRdY-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Agentes&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-770" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="wXz9zKLrPtPnqNTYvRdY-14" edge="1" parent="1" source="wXz9zKLrPtPnqNTYvRdY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wXz9zKLrPtPnqNTYvRdY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wXz9zKLrPtPnqNTYvRdY-15" edge="1" parent="1" source="wXz9zKLrPtPnqNTYvRdY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wXz9zKLrPtPnqNTYvRdY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wXz9zKLrPtPnqNTYvRdY-16" edge="1" parent="1" source="wXz9zKLrPtPnqNTYvRdY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wXz9zKLrPtPnqNTYvRdY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wXz9zKLrPtPnqNTYvRdY-17" edge="1" parent="1" source="wXz9zKLrPtPnqNTYvRdY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wXz9zKLrPtPnqNTYvRdY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wXz9zKLrPtPnqNTYvRdY-18" edge="1" parent="1" source="wXz9zKLrPtPnqNTYvRdY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wXz9zKLrPtPnqNTYvRdY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wXz9zKLrPtPnqNTYvRdY-6" parent="1" style="whiteSpace=wrap;html=1;" value="Orquestrador" vertex="1">
+          <mxGeometry height="60" width="120" x="-200" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="wXz9zKLrPtPnqNTYvRdY-7" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;Assistente Educacional&lt;/div&gt;&lt;div&gt;Tools:&lt;/div&gt;&lt;div&gt;get_pending_tasks&lt;/div&gt;&lt;div&gt;get_courses&lt;/div&gt;&lt;div&gt;get_grades&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="120" x="-540" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="wXz9zKLrPtPnqNTYvRdY-8" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;Todos esses relatórios são enviados via Whatsapp&lt;/div&gt;&lt;div&gt;A plataforma deve oferecer uma interface de gestão de documentos (a priori comprovantes de pagamento para acertar as mensalidades e envio de tarefas atrasadas)&lt;/div&gt;&lt;div&gt;O modelo deve sempre responder em português e além disso um aluno deve ter acesso somente aos seus dados, e o professor deve ter acesso aos dados de todos os SEUS alunos mas não dos dados de outros professores. já os administradores devem ter acessos a todos os dados, tanto aluno como professor&lt;/div&gt;&lt;div&gt;Deve ser uma interface de linguagem natural para os clientes onde eles possam fazer perguntas.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="1200" x="-660" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="wXz9zKLrPtPnqNTYvRdY-9" parent="1" style="whiteSpace=wrap;html=1;" value="Answer General Questions" vertex="1">
+          <mxGeometry height="80" width="120" x="-380" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="wXz9zKLrPtPnqNTYvRdY-10" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;Assistente Financeiro&lt;/div&gt;&lt;div&gt;Tools:&amp;nbsp;&lt;/div&gt;&lt;div&gt;get_pending_payments&lt;/div&gt;&lt;div&gt;process_comprovante&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="130" x="-205" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="wXz9zKLrPtPnqNTYvRdY-11" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;Assistente Professor&lt;/div&gt;&lt;div&gt;Tools:&amp;nbsp;&lt;/div&gt;&lt;div&gt;get_pending_tasks&lt;/div&gt;&lt;div&gt;Get_students_lowPerformes&lt;/div&gt;&lt;div&gt;get_subjects&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="160" x="190" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="wXz9zKLrPtPnqNTYvRdY-12" parent="1" style="whiteSpace=wrap;html=1;align=center;" value="&lt;div align=&quot;center&quot;&gt;Secretario Virtual:&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;Tools:&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;get_performance_review&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="170" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="wXz9zKLrPtPnqNTYvRdY-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Inventário das Tools&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Get_pending_tasks: recebe de parametro o ID do aluno e faz uma chamada na base de dados com o ID do aluno procurando quais tarefas ele ainda não entregou, deve retornar uma lista e cada linha deve ser Nome da matéria, ID da Tarefa e quando vence&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;get_courses: Recebe o ID do Aluno&amp;nbsp; e retorna em formato de lista o nome, ID e o professor responsável pela matéria&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;get_grades: Recebe uma lista de Matérias/ID de Matérias junto com o ID do Aluno, e ai deve retornar para uma lista com Nome da materia, ID e nota&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;get_pending_payments: recebe o ID do Admin e faz uma consulta no banco dos pagamentos que não foram feitos, retorna uma lista com ID do aluno e quais os meses que ele não pagou.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Process_comprovante: Receb uma foto do comprovante e o ID do aluno junto com o mês que o aluno pagou. Aluno envia uma foto que deve ser salva em um bucket S3 e extraida as informações do pagamento&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Get_performance_review: pega o último relatorio de performance e já gera insights com base de possíveis pontos de atenção sobre cada professor&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Get_pending_tasks: Recebe o ID do professor e retorna para ele todas as tarefas pendentes que os alunos do curso dele não entregaram&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Get_students_LowPerform: pega todos os estudantes que estão com notas abaixo de 5, recebe o ID do professor e retorna todos os alunos em ordem crescente de notas que estão abaixo de 5&amp;nbsp;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Get_subjects: recebe o ID do professor e mostra todas as matérias que ele ministra, retorna uma lista com os IDs das matérias.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="270" width="1440" x="-810" y="910" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

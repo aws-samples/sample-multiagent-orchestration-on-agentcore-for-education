@@ -1,0 +1,3 @@
+Computer Science - Artificial Intelligence
+
+Artificial Intelligence creates systems that perform tasks typically requiring human intelligence. Machine learning algorithms learn patterns from data without explicit programming. Supervised learning uses labeled training data, unsupervised learning finds hidden patterns, and reinforcement learning learns through trial and error. Neural networks simulate brain-like processing through interconnected nodes. Deep learning uses multi-layered networks for complex pattern recognition. Natural language processing enables computer understanding of human language. Computer vision interprets visual information. AI applications include recommendation systems, autonomous vehicles, medical diagnosis, and game playing.

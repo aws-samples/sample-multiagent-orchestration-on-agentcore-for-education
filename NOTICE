@@ -1,0 +1,15 @@
+Sample: Multi-Agent Educational Assistant with Amazon Bedrock AgentCore
+Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+This sample code is provided under the MIT-0 license. See the LICENSE file.
+
+This sample demonstrates Amazon Bedrock AgentCore capabilities including multi-agent
+orchestration, memory management, and MCP tool integration. It is intended for
+educational and demonstration purposes only.
+
+DISCLAIMER: This sample code is provided "AS IS" without warranty of any kind and
+is not intended for production use without significant modifications, security
+hardening, and proper testing.
+
+Third-party dependencies and their licenses are listed in the THIRD-PARTY-LICENSES
+file (if present).

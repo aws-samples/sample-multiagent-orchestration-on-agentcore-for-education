@@ -1,0 +1,3 @@
+Music - Music Theory Fundamentals
+
+Music theory provides the language and structure for understanding musical composition and performance. The staff system uses five lines and four spaces to represent pitch. Clefs indicate pitch ranges with treble, bass, alto, and tenor clefs. Key signatures establish tonal centers through sharps and flats. Time signatures organize rhythm through beats per measure. Intervals measure distance between pitches in half-steps and whole-steps. Scales provide pitch collections including major, minor, and modal patterns. Chords combine multiple pitches creating harmony. Understanding theory enhances musical literacy, composition, and performance skills.

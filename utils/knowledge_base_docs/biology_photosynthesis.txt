@@ -1,0 +1,13 @@
+Biology - Photosynthesis
+
+Photosynthesis converts light energy into chemical energy, producing glucose and oxygen from carbon dioxide and water. This process sustains most life on Earth by providing food and oxygen.
+
+Photosynthesis equation: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂
+
+Two main stages:
+- Light reactions: Chlorophyll captures light, splits water, produces ATP and NADPH
+- Calvin cycle: CO₂ fixation into glucose using ATP and NADPH
+- Occurs in chloroplasts, primarily in leaf mesophyll cells
+- Chlorophyll a and b absorb different light wavelengths
+
+Photosynthesis forms the base of food chains, removes atmospheric CO₂, and produces oxygen essential for aerobic respiration in most organisms.

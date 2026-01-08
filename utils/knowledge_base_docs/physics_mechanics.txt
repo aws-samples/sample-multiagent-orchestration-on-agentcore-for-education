@@ -1,0 +1,10 @@
+Physics - Classical Mechanics
+
+Classical mechanics describes motion of objects from projectiles to planets using Newton's laws. It forms the foundation for engineering, astronomy, and everyday physics applications.
+
+Newton's three laws:
+1. Inertia: Objects at rest stay at rest, moving objects continue moving
+2. Force: F = ma (force equals mass times acceleration)
+3. Action-reaction: Every action has an equal and opposite reaction
+
+Key concepts include momentum (p = mv), energy conservation, rotational motion, and harmonic oscillators. Classical mechanics accurately predicts planetary orbits, projectile trajectories, pendulum motion, and mechanical system behavior in engineering applications.

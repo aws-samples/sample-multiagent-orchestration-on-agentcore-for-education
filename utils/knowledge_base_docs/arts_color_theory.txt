@@ -1,0 +1,3 @@
+Arts - Color Theory and Design
+
+Color theory explains how colors interact, combine, and affect visual perception and emotional response. Primary colors (red, blue, yellow) cannot be created by mixing others. Secondary colors (orange, green, purple) result from mixing primaries. Tertiary colors combine primary and secondary hues. Color properties include hue (color name), saturation (intensity), and value (lightness/darkness). Color schemes use complementary, analogous, triadic, and monochromatic relationships. Warm colors advance while cool colors recede in visual space. Color psychology associates emotions and meanings with specific hues influencing design decisions.

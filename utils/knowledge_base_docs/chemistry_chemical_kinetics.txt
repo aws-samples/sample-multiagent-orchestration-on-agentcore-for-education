@@ -1,0 +1,12 @@
+Chemistry - Chemical Kinetics
+
+Chemical kinetics studies reaction rates and mechanisms. It explains how fast reactions occur and what factors influence reaction speed, crucial for industrial processes and biological systems.
+
+Key factors affecting reaction rates:
+- Concentration: Higher concentrations increase collision frequency
+- Temperature: Higher temperatures increase molecular kinetic energy
+- Catalysts: Lower activation energy without being consumed
+- Surface area: Greater surface area increases reaction sites
+- Pressure: Affects gaseous reactions
+
+Rate laws express reaction rate dependence on reactant concentrations. Understanding kinetics enables optimization of chemical processes, drug metabolism, and enzyme function.

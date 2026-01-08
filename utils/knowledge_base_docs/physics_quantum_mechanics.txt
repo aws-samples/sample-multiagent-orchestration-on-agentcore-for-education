@@ -1,0 +1,12 @@
+Physics - Quantum Mechanics
+
+Quantum mechanics describes the behavior of matter and energy at atomic and subatomic scales. Unlike classical physics, quantum systems exhibit wave-particle duality and probabilistic behavior.
+
+Key principles:
+- Wave function ψ describes quantum state probabilities
+- Heisenberg uncertainty principle: Δx·Δp ≥ ħ/2
+- Superposition: Particles exist in multiple states simultaneously
+- Quantum entanglement: Correlated particles affect each other instantly
+- Schrödinger equation: iħ∂ψ/∂t = Ĥψ
+
+Quantum mechanics enables technologies like lasers, MRI machines, computer processors, and emerging quantum computers for cryptography and simulation.

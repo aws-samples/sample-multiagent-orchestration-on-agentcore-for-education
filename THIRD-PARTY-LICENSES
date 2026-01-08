@@ -1,0 +1,65 @@
+Third-Party Licenses
+====================
+
+This sample code includes the following third-party dependencies:
+
+## Runtime Dependencies
+
+### AWS SDK and Services
+- boto3 (Apache License 2.0) - AWS SDK for Python
+- botocore (Apache License 2.0) - Low-level interface to AWS services
+- bedrock-agentcore (Amazon Software License) - Amazon Bedrock AgentCore SDK
+- bedrock-agentcore-starter-toolkit (Amazon Software License) - AgentCore starter toolkit
+
+### Agent Framework
+- strands-agents (Amazon Software License) - Strands agent framework
+- strands-agents-tools (Amazon Software License) - Strands agent tools
+
+### HTTP and Utilities
+- requests (Apache License 2.0) - HTTP library for Python
+- python-dotenv (BSD License) - Environment variable loader
+- pydantic (MIT License) - Data validation library
+- pyyaml (MIT License) - YAML parser and emitter
+- retrying (Apache License 2.0) - Retry decorator library
+
+### Search and Protocol
+- opensearch-py (Apache License 2.0) - OpenSearch client
+- mcp (MIT License) - Model Context Protocol
+
+## Development Dependencies
+
+### Testing
+- pytest (MIT License) - Testing framework
+- pytest-asyncio (Apache License 2.0) - Async testing support
+- pytest-cov (MIT License) - Coverage plugin
+- hypothesis (Mozilla Public License 2.0) - Property-based testing
+
+### Code Quality
+- black (MIT License) - Code formatter
+- ruff (MIT License) - Linter and formatter
+- ipython (BSD License) - Interactive Python shell
+
+## License Compliance
+
+All third-party dependencies are used in compliance with their respective licenses.
+The use of these dependencies does not imply endorsement by their respective authors
+or organizations.
+
+For the most up-to-date license information, please refer to the individual package
+documentation and license files.
+
+## Amazon Software License Notice
+
+Some dependencies (bedrock-agentcore, bedrock-agentcore-starter-toolkit, strands-agents) 
+are provided under Amazon Software License terms. These are Amazon-developed packages 
+specifically for use with Amazon services and are subject to Amazon's terms of service.
+
+## Open Source License Summary
+
+The majority of third-party dependencies use permissive open source licenses
+(MIT, Apache 2.0, BSD) that allow for commercial and non-commercial use,
+modification, and distribution with proper attribution.
+
+This sample code itself is provided under MIT-0 (MIT No Attribution) license,
+which does not require attribution when redistributing the sample code itself,
+but third-party dependency licenses must still be respected.

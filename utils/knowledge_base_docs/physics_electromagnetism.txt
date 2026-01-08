@@ -1,0 +1,11 @@
+Physics - Electromagnetism
+
+Electromagnetism unifies electric and magnetic phenomena through Maxwell's equations. It describes how charged particles create fields and how changing fields generate forces and currents.
+
+Maxwell's equations:
+- Gauss's law: ∇·E = ρ/ε₀
+- Gauss's law for magnetism: ∇·B = 0
+- Faraday's law: ∇×E = -∂B/∂t
+- Ampère-Maxwell law: ∇×B = μ₀J + μ₀ε₀∂E/∂t
+
+These equations predict electromagnetic waves traveling at light speed, explaining radio, microwaves, visible light, and X-rays. Applications include motors, generators, transformers, antennas, and wireless communication systems.
