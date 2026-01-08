@@ -119,7 +119,7 @@ After setting up the above services, you'll need these values for your `.env` fi
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/aws-samples/sample-multiagent-orchestration-on-agentcore-for-education.git
 cd sample-bedrock-agentcore-whatsapp-assistant
 
 # Install dependencies
