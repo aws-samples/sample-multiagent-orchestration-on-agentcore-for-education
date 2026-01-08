@@ -191,14 +191,6 @@ MEMORY_ID=OctankEduMultiAgentMemory-XXXXXXXXXX
 USER_POOL_ID=us-east-1_XXXXXXXXX
 AGENT_RUNTIME_ARN=arn:aws:bedrock-agentcore:us-east-1:XXXXXXXXXXXX:runtime/octank_edu_orchestrator-XXXXXXXXXX
 
-# Bedrock Models
-ORCHESTRATOR_MODEL_ID=openai.gpt-oss-20b-1:0
-EDUCATIONAL_AGENT_MODEL_ID=openai.gpt-oss-20b-1:0
-TEACHER_AGENT_MODEL_ID=openai.gpt-oss-20b-1:0
-FINANCIAL_AGENT_MODEL_ID=openai.gpt-oss-20b-1:0
-SECRETARY_AGENT_MODEL_ID=openai.gpt-oss-20b-1:0
-GENERAL_AGENT_MODEL_ID=openai.gpt-oss-20b-1:0
-
 # Optional: WhatsApp Integration
 WHATSAPP_PHONE_NUMBER_ID=phone-number-id-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 END_USER_MESSAGING_TOPIC=arn:aws:sns:us-east-1:XXXXXXXXXXXX:endUserMssTopic
@@ -342,6 +334,10 @@ python3 deploy_agentcore_runtime_with_gw.py
 
 # 5. Deploy Cognito User Pool
 python3 deploy_cognito_user_pool.py
+
+# 6. Deploy Lambda for handling SNS and EUM social
+cd src/lambda_sns_eum
+./update_lambda_env.sh
 ```
 
 ## Troubleshooting
