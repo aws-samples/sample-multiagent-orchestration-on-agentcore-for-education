@@ -291,8 +291,8 @@ The system creates demo users for testing:
 
 | Persona | Username | Phone | Password | Access |
 |---------|----------|-------|----------|---------|
-| Administrator | `admin_demo` | `+5511987654321` | `OctankDemo123!` | All agents |
-| Professor | `professor_demo` | `+551146731805` | `OctankDemo123!` | Professor + Financial |
+| Administrator | `admin_demo` | `+551199999999` | `OctankDemo123!` | All agents |
+| Professor | `professor_demo` | `+551199999999` | `OctankDemo123!` | Professor + Financial |
 | Student | `student_demo` | `+5511123456789` | `OctankDemo123!` | Educational + Financial |
 
 > **⚠️ DEMO ONLY**: These users have hardcoded passwords for demonstration. Never use in production.
