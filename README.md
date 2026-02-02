@@ -164,7 +164,7 @@ If you configured WhatsApp Business API:
 - Send messages to your configured WhatsApp number from demo phones:
   - Administrator: +55119999999
   - Professor: +551199999999 
-  - Student: +55119999999
+  - Student: +551199999999
 
 ### 5. Cleanup When Done
 
