@@ -162,9 +162,9 @@ python3 tests/invoke_agent.py --persona professor --query "Show my course metric
 
 If you configured WhatsApp Business API:
 - Send messages to your configured WhatsApp number from demo phones:
-  - Administrator: +5511987654321
-  - Professor: +551146731805  
-  - Student: +5511123456789
+  - Administrator: +55119999999
+  - Professor: +551199999999 
+  - Student: +55119999999
 
 ### 5. Cleanup When Done
 
