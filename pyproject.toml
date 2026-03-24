@@ -37,7 +37,6 @@ dependencies = [
     
     # Strands framework (Agents as Tools)
     "strands>=0.1.0",
-    "strands_tools>=0.1.0",
     
     # MCP (Model Context Protocol)
     "mcp>=1.0.0",
